@@ -3,5 +3,6 @@ pandas
 matplotlib
 numpy
 japanize_matplotlib
+openpyxl
 
 
