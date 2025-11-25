@@ -1,8 +1,7 @@
 streamlit
 pandas
 matplotlib
-math
 numpy
-io
 japanize_matplotlib
+
 
