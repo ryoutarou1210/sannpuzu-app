@@ -1,8 +1,8 @@
 streamlit
 pandas
-matplotlib.pyplot
-matplotlib.ticker
+matplotlib
 math
 numpy
 io
 japanize_matplotlib
+
