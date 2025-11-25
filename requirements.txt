@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib.pyplot
+matplotlib.ticker
+math
+numpy
+io
+japanize_matplotlib
